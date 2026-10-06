@@ -1,0 +1,22 @@
+{
+  "ORD-101": {
+    "customer": "Priya Sharma",
+    "product": "Organic Rose Water Toner",
+    "status": "Shipped",
+    "notes": "Expected delivery tomorrow by 5 PM"
+  },
+  "ORD-102": {
+    "customer": "Rahul Verma",
+    "product": "Hydrating Sunscreen SPF 50",
+    "value": "₹499",
+    "status": "Delivered",
+    "notes": "Delhivery DL-441029. Delivered 14 days ago"
+  },
+  "ORD-103": {
+    "customer": "Ananya Patel",
+    "product": "Green Tea Face Wash + Toner",
+    "value": "₹850",
+    "status": "Processing",
+    "notes": "Ordered 3 hours ago. Eligible for cancellation"
+  }
+}
